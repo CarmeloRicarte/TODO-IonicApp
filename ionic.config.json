@@ -1,6 +1,8 @@
 {
   "name": "TODO",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "74480479"
 }
